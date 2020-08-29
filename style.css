@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+ 
+h3 {
+    font-family:  Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    font-size: 21px;
+    color: gray; 
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.logo {
+    position: block;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: right;
+    font-family: Verdana, sans-serif;
+    font-size: 21px;
+    color: gray; 
+   }
+   
+ i {
+     margin-right: 5px;
+ }
